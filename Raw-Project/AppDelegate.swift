@@ -2,7 +2,6 @@
 //  AppDelegate.swift
 //  Raw-Project
 //
-//  Created by Pham Anh on 4/2/17.
 //  Copyright © 2017 Innovatube. All rights reserved.
 //
 

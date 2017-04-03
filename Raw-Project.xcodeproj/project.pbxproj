@@ -301,6 +301,7 @@
 				32DE08461E90CBF600920465 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
